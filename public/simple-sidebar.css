@@ -1,0 +1,18 @@
+.header{
+ padding-top: 4%;
+ text-align: center;
+}
+
+#login{
+    padding-top: 10%;  
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 150px;
+    overflow: auto;
+    }
+
+.p1{
+        font-family: "Georgia", Times, serif;
+      }   
