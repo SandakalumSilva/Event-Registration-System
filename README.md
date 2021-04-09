@@ -1,3 +1,6 @@
+## About Project :- You start the this project you can see upcoming events and event registration form. If you are like to participate to event you can register using event registration form. If you are an admin you can log to click login button and using your email and password. If you are admin you can see event register people's details. If you are admin you can add another admin and delete exsisting admin. you can add new event and you can update and delete exsisting event. 
+
+
 ##Follow this link to steps for setup - https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
 
 
